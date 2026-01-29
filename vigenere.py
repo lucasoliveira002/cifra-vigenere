@@ -148,4 +148,4 @@ for p in range(tamanho):
         total[p] = total[p] - 26
     codificada.append(reverter(total[p]))
 
-print(codificada)
+print(*codificada)

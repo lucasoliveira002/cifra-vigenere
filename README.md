@@ -1,9 +1,9 @@
-# Cifra de César / Vigenère (Python)
+# Cifra Vigenère (Python)
 
 Este repositório contém um programa de criptografia simples, baseado na cifra de Vigenere
 
 ##Funcionamento:
-- O código aceita uma mensagem de entrada e de uma chave
+- Mensagem de entrada e de uma chave
 - A partir da chave fornecida ele criptografa sua mensagem
 
 ---
